@@ -4,9 +4,9 @@
     "port": 3001
   },
   "blockchain": {
-      "rpc": "https://rpc.xinfin.network",
-      "ws": "wss://mnws.xinfin.network",
-      "networkId": 50,
+      "rpc": "https://rpc.apothem.network",
+      "ws": "wss://mnws.apothem.network",
+      "networkId": 51,
       "epoch": 900,
       "blockTime": 2,
       "reward": 5000,
